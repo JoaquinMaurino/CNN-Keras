@@ -1,0 +1,19 @@
+# Ignorar entorno virtual
+entorno_tensorflow/
+.venv/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Archivos temporales de VSCode
+.vscode/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
